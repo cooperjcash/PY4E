@@ -5,4 +5,6 @@ This is my collection of the PY4E course examples that I completed on my own whi
 - I used the examples directly from https://www.py4e.com/ but followed the https://www.freecodecamp.org/learn/scientific-computing-with-python/ curriculum
 - Most of my code is commented in blocks describing what it does
 
+The intent of this is not to provide a resource for other students to copy, but to showcase my ability gained in python.
+
 Enjoy!
